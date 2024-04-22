@@ -3,7 +3,7 @@ from itertools import product
 import numpy as np
 
 
-class FeatureExtraction:
+class FeatureExtractionOld:
     # Assuming you will define AMINO_ACIDS and GROUPS here or pass them during initialization
     amino_acids = 'ACDEFGHIKLMNPQRSTVWY'
     groups = {
